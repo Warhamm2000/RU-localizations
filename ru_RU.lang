@@ -310,12 +310,12 @@ item.sun_stone.name=Солнечный Камень
 item.fire_stone.name=Огненный Камень
 item.water_stone.name=Водный Камень
 item.moon_stone.name=Лунный Камень
-item.thunder_stone.name=Громовой Камень
+item.thunder_stone.name=Камень Грома
 item.leaf_stone.name=Лиственный Камень
 item.dawn_stone.name=Камень Рассвета
 item.dusk_stone.name=Сумрачный Камень
 item.shiny_stone.name=Блестящий Камень
-item.thunder_stone_shard.name=Осколок Громового Камня
+item.thunder_stone_shard.name=Осколок Камня Грома
 item.leaf_stone_shard.name=Осколок Лиственного Камня
 item.water_stone_shard.name=Осколок Водного Камня
 item.fire_stone_shard.name=Осколок Огненного Камня
@@ -325,7 +325,7 @@ item.dusk_stone_shard.name=Осколок Камня Рассвета
 item.dawn_stone_shard.name=Осколок Сумрачного Камня
 item.shiny_stone_shard.name=Осколок Блестящего Камня
 item.ever_stone.name=Вечнокамень
-item.lucky_egg.name=Счастливое Яйцо
+item.lucky_egg.name=Яйцо Удачи
 item.exp_share.name=Прибор Опыта
 item.exp_all.name=Опыт Всем
 item.choice_band.name=Лента Выбора
@@ -3919,9 +3919,9 @@ pixelmon.entities.syncpassed=Синхронизация перешла на %s!
 pixelmon.entitytrainer.goodrod=Вы получили хороший жезл!
 pixelmon.entitytrainer.superrod=Вы получили супер жезл!
 pixelmon.entitytrainer.onceday=Этот тренер может сражаться только один раз в день.
-pixelmon.entitytrainer.oncemcday=Этот тренер может быть сражен только один раз в день Minecraft.
+pixelmon.entitytrainer.oncemcday=Этот тренер может быть сражен только один раз в день Minecraft'а.
 pixelmon.entitytrainer.onceplayer=Этот тренер может сражаться только один раз с каждым игроком.
-pixelmon.entitytrainer.level=Лвл:
+pixelmon.entitytrainer.level=Уровень:
 pixelmon.entitytrainer.winnings=Вы выиграли %sP за победу %s!
 pixelmon.entitytrainer.dropitemstitle=Вы победили Гим-Лидера %s!
 
@@ -3992,7 +3992,7 @@ pixelmon.items.useitem=%s использует %s.
 //Блоки
 pixelmon.blocks.bonemealwatered=Оно выгдядит хорошо политым сегодня.
 
-pixelmon.blocks.healer=Лечебница занята!
+pixelmon.blocks.healer=Эта Лечебница в данный момент занята!
 
 pixelmon.blocks.pc.ownership=Этот ПК не принадлежит вам.
 
@@ -4009,16 +4009,16 @@ pixelmon.blocks.chestmodeFCFS=Первым прибыл - первым обсл�
 pixelmon.blocks.chestmodePUD=Постоянные, неограниченные дропы
 
 pixelmon.blocks.orbnotfull=Ваш Орб не заполнен!
-pixelmon.blocks.orbwrong=Ваша Орб не совместимм с этим Святилищем!
+pixelmon.blocks.orbwrong=Ваш Орб не совместимм с этим Святилищем!
 pixelmon.blocks.shrineused=Это Святилише уже использовано!
 
-pixelmon.blocks.tradefull=Обменная машина занята!
-pixelmon.blocks.trader.ownership=Эта Обменная машина не принадлежит вам.
+pixelmon.blocks.tradefull=Машина Обмена в данный момент занята!
+pixelmon.blocks.trader.ownership=Эта Машина Обмена не принадлежит вам.
 
 pixelmon.blocks.noclone=У вас нет ничего для клонирования!
 
 pixelmon.blocks.fossilmachine.fossil=Вставь Окаменелость
-pixelmon.blocks.fossilmachine.pokeball=Вставить Покебол
+pixelmon.blocks.fossilmachine.pokeball=Вставь Покебол
 pixelmon.blocks.fossilmachine.retrieve=Восстановить Покемона
 pixelmon.blocks.fossilmachine.working=Загрузка
 
